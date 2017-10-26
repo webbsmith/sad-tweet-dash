@@ -1,3 +1,6 @@
 [submodule "geo-tweet-finder"]
 	path = geo-tweet-finder
 	url = https://github.com/webbsmith/geo-tweet-finder.git
+[submodule "delta-tweet-service"]
+	path = delta-tweet-service
+	url = https://github.com/webbsmith/delta-tweet-service.git
